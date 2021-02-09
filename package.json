@@ -1,0 +1,26 @@
+{
+  "name": "udemy_javascript_algorithms_and_data_structures_masterclass",
+  "version": "1.0.0",
+  "description": "An udemy course to learn data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurnecessary/udemy_JavaScript_Algorithms_and_Data_Structures_Masterclass.git"
+  },
+  "keywords": [
+    "data-structures;",
+    "javascript"
+  ],
+  "author": "Ankur Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankurnecessary/udemy_JavaScript_Algorithms_and_Data_Structures_Masterclass/issues"
+  },
+  "homepage": "https://github.com/ankurnecessary/udemy_JavaScript_Algorithms_and_Data_Structures_Masterclass#readme",
+  "dependencies": {
+    "node": "^15.8.0"
+  }
+}
